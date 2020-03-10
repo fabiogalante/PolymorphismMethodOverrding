@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.29613.14
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodOverriding", "MethodOverriding\MethodOverriding.csproj", "{FFC10D46-A023-4F97-A092-47DCE1E78C59}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfacesPolymorphism", "InterfacesPolymorphism\InterfacesPolymorphism.csproj", "{31BF628B-8BC1-4A43-B3B3-ECD8F6EE4D97}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{FFC10D46-A023-4F97-A092-47DCE1E78C59}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FFC10D46-A023-4F97-A092-47DCE1E78C59}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FFC10D46-A023-4F97-A092-47DCE1E78C59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31BF628B-8BC1-4A43-B3B3-ECD8F6EE4D97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31BF628B-8BC1-4A43-B3B3-ECD8F6EE4D97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31BF628B-8BC1-4A43-B3B3-ECD8F6EE4D97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31BF628B-8BC1-4A43-B3B3-ECD8F6EE4D97}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
